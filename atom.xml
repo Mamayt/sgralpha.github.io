@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[帝都系列任务汇总 Beijing Mission Series Directory]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://missions.ingress.pub/"/>
+  <updated>2016-02-01T08:08:27.305Z</updated>
+  <id>http://missions.ingress.pub/</id>
+  
+  <author>
+    <name><![CDATA[SgrAlpha]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[示例任务(已上线)]]></title>
+    <link href="http://missions.ingress.pub/category/online-haidian-sample/"/>
+    <id>http://missions.ingress.pub/category/online-haidian-sample/</id>
+    <published>2016-02-01T16:08:33.000Z</published>
+    <updated>2016-02-01T08:08:27.305Z</updated>
+    <content type="html"><![CDATA[<p>  <strong>示例任务(已上线)</strong><br>  <strong>申请人</strong>：特工ID<br>  <strong>任务总数</strong>：n<br>  <strong>起点po</strong>：Link<br>  <strong>平均完成时间</strong>：2h<br>  <strong>说明</strong>：各种注意事项，谜题的提示等等</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>  <strong>示例任务(已上线)</strong><br>  <strong>申请人</strong>：特工ID<br>  <strong>任务总数</strong>：n<br>  <strong>起点po</strong>：Link<br>  <strong>平均完]]>
+    </summary>
+    
+      <category term="已上线(Online)" scheme="http://missions.ingress.pub/categories/%E5%B7%B2%E4%B8%8A%E7%BA%BF-Online/"/>
+    
+      <category term="海淀区(Haidian)" scheme="http://missions.ingress.pub/categories/%E5%B7%B2%E4%B8%8A%E7%BA%BF-Online/%E6%B5%B7%E6%B7%80%E5%8C%BA-Haidian/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[示例任务(建设中)]]></title>
+    <link href="http://missions.ingress.pub/category/pending-haidian-sample/"/>
+    <id>http://missions.ingress.pub/category/pending-haidian-sample/</id>
+    <published>2016-02-01T15:42:33.000Z</published>
+    <updated>2016-02-01T07:50:11.789Z</updated>
+    <content type="html"><![CDATA[<p>  <strong>示例任务(建设中)</strong><br>  <strong>申请人</strong>：特工ID<br>  <strong>任务总数</strong>：n<br>  <strong>起点po</strong>：Link<br>  <strong>平均完成时间</strong>：2h<br>  <strong>说明</strong>：各种注意事项，谜题的提示等等</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>  <strong>示例任务(建设中)</strong><br>  <strong>申请人</strong>：特工ID<br>  <strong>任务总数</strong>：n<br>  <strong>起点po</strong>：Link<br>  <strong>平均完]]>
+    </summary>
+    
+      <category term="建设中(Pending)" scheme="http://missions.ingress.pub/categories/%E5%BB%BA%E8%AE%BE%E4%B8%AD-Pending/"/>
+    
+      <category term="海淀区(Haidian)" scheme="http://missions.ingress.pub/categories/%E5%BB%BA%E8%AE%BE%E4%B8%AD-Pending/%E6%B5%B7%E6%B7%80%E5%8C%BA-Haidian/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[示例任务(已下线)]]></title>
+    <link href="http://missions.ingress.pub/category/unpublished-haidian-sample/"/>
+    <id>http://missions.ingress.pub/category/unpublished-haidian-sample/</id>
+    <published>2016-02-01T15:42:33.000Z</published>
+    <updated>2016-02-01T07:50:16.321Z</updated>
+    <content type="html"><![CDATA[<p>  <strong>示例任务(已下线)</strong><br>  <strong>申请人</strong>：特工ID<br>  <strong>任务总数</strong>：n<br>  <strong>起点po</strong>：Link<br>  <strong>平均完成时间</strong>：2h<br>  <strong>说明</strong>：各种注意事项，谜题的提示等等</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>  <strong>示例任务(已下线)</strong><br>  <strong>申请人</strong>：特工ID<br>  <strong>任务总数</strong>：n<br>  <strong>起点po</strong>：Link<br>  <strong>平均完]]>
+    </summary>
+    
+      <category term="已下线(Unpublished)" scheme="http://missions.ingress.pub/categories/%E5%B7%B2%E4%B8%8B%E7%BA%BF-Unpublished/"/>
+    
+      <category term="海淀区(Haidian)" scheme="http://missions.ingress.pub/categories/%E5%B7%B2%E4%B8%8B%E7%BA%BF-Unpublished/%E6%B5%B7%E6%B7%80%E5%8C%BA-Haidian/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[关于帝都系列任务汇总]]></title>
+    <link href="http://missions.ingress.pub/category/about/"/>
+    <id>http://missions.ingress.pub/category/about/</id>
+    <published>2016-02-01T15:30:33.000Z</published>
+    <updated>2016-02-01T07:51:33.316Z</updated>
+    <content type="html"><![CDATA[<h2 id="u5173_u4E8E_u5E1D_u90FD_u7CFB_u5217_u4EFB_u52A1_u6C47_u603B"><a href="#u5173_u4E8E_u5E1D_u90FD_u7CFB_u5217_u4EFB_u52A1_u6C47_u603B" class="headerlink" title="关于帝都系列任务汇总"></a>关于帝都系列任务汇总</h2><p>目前该任务列表尚在完善过程中，如果你遇到了关于任务目录的各种问题，可以在游戏中联系 <strong>SgrAlpha</strong>，或者是 <a href="https://plus.google.com/u/0/+SgrAlphaPlus" target="_blank" rel="external">我的G+</a>。</p>
+<p>超过6个的系列任务将被加入本列表中，申请者至少需要提供如下内容：</p>
+<p> <strong>任务名称</strong><br> <strong>申请人</strong>：特工ID<br> <strong>任务总数</strong>：n<br> <strong>起点po</strong>：Link<br> <strong>平均完成时间</strong>：2h<br> <strong>说明</strong>：各种注意事项，谜题的提示等等</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="u5173_u4E8E_u5E1D_u90FD_u7CFB_u5217_u4EFB_u52A1_u6C47_u603B"><a href="#u5173_u4E8E_u5E1D_u90FD_u7CFB_u5217_u4EFB_u52A1_u6C47_u603B" ]]>
+    </summary>
+    
+      <category term="关于(About)" scheme="http://missions.ingress.pub/categories/%E5%85%B3%E4%BA%8E-About/"/>
+    
+  </entry>
+  
+</feed>
