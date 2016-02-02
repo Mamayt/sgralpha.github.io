@@ -1,0 +1,106 @@
+body {
+	margin-top: 10px;
+	padding-top: 40px;
+	background-color: #FFF;
+}
+
+.bg-ENLIGHTENED {background-color: green !important;}
+.bg-RESISTANCE {background-color: blue !important;}
+.bg-NEUTRAL {background-color: #bbb !important;}
+
+.player-ENLIGHTENED, .portal-ENLIGHTENED, .res-ENLIGHTENED {color: green !important;}
+.player-RESISTANCE, .portal-RESISTANCE, .res-RESISTANCE {color: blue !important;}
+.portal-NEUTRAL, .res-NEUTRAL {color: #bbb !important;}
+
+.res-L8 {color:#9627f4; !important;}
+.res-L7 {color:#c124e0; !important;}
+.res-L6 {color:#eb26cd; !important;}
+.res-L5 {color:#fd2992; !important;}
+.res-L4 {color:#e40000; !important;}
+.res-L3 {color:#ff7315; !important;}
+.res-L2 {color:#ffa630; !important;}
+.res-L1 {color:#fece5a; !important;}
+
+.mod-COMMON {color: #8cffbf; !important;}
+.mod-RARE {color: #b08cff; !important;}
+.mod-VERY_RARE {color: #ff9fff; !important;}
+
+#map-container {
+	padding: 0px;
+}
+#map-nav {
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    min-width: 250px;
+}
+#map-nav .well {
+	padding: 5px;
+}
+#map-nav #search-player-label {
+	min-width: 80px;
+	background-color: white;
+    border-right: 1px solid #ccc;
+}
+#map-nav #search-player-input {
+    min-width: 180px;
+	border-bottom-width: 0;
+    background-color: white;
+    padding: 0 5px;
+}
+.map-canvas {
+	height: 100%;
+	border: 1px solid @gray-light;
+	border-radius: 3px;
+	box-shadow: 3px 3px 10px rgba(0,0,0,.065);
+}
+.map-canvas img {
+    max-width: none;
+}
+.infowindow {
+	min-width: 600px;
+}
+.infowindow table {
+	table-layout: fixed;
+}
+.infowindow table td {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.portal-summary {
+	padding: 15px;
+}
+.row-picture {
+	min-height: 60px;
+}
+.row-content {
+	min-height: 60px;
+}
+
+.portal-records {
+	padding-top: 10px;
+}
+.portal-records .record {
+	padding: 5px;
+}
+
+a.anchor {
+	display: block;
+	position: relative;
+	top: -65px;
+	visibility: hidden;	
+}
+
+.external {
+	background-position: center right;
+	background-repeat: no-repeat;
+	background-image: url(../img/external-link-icon.png);
+	padding-right: 15px;
+}
+
+small {
+	color: gray;
+}
+
