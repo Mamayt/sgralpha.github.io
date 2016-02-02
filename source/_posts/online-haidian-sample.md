@@ -1,5 +1,5 @@
 ---
-title: 示例任务(已上线)
+title: 示例任务
 categories: [已上线(Online), 海淀区(Haidian)]
 date: 2016-02-01 16:08:33
 ---

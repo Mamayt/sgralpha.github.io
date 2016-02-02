@@ -1,17 +1,13 @@
 <%- partial('_partial/head') %>
 <body>
   <%- partial('_partial/nav') %>
-  <div id="container" class="container-fluid">
-    <div id="wrap">
-      <div class="outer">
-        <section id="main"><%- body %></section>
-        <% if (theme.sidebar && theme.sidebar !== 'bottom'){ %>
-          <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
-        <% } %>
-      </div>
-      <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
-    </div>
-    <%- partial('_partial/after-footer') %>
+  <div id="container" class="container-fluid row">
+      <section id="main" class="col-xs-12 col-sm-12 col-md-8 col-lg-8"><%- body %></section>
+      <aside id="sidebar" class="list-group pull-right hidden-xs hidden-sm col-md-4 col-lg-4">
+        <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
+      </aside>
   </div>
+  <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
+  <%- partial('_partial/after-footer') %>
 </body>
 </html>
