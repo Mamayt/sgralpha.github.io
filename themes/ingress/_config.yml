@@ -1,7 +1,8 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  Home: http://www.ingress.pub/
+  Meet: https://ingress.pub/meet
+  Missions: http://missions.ingress.pub/
 rss: /atom.xml
 
 # Content
@@ -19,8 +20,8 @@ widgets:
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: /images/logo.png
 twitter:
-google_plus:
+google_plus: https://plus.google.com/+SgrAlphaPlus
 fb_admins:
 fb_app_id:
